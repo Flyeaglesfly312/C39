@@ -1,2 +1,2 @@
-# C39
-Creating the car and track images. 
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
